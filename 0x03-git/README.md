@@ -1,1 +1,1 @@
-This directory is for my git project
+This is my git project
